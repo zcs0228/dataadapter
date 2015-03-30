@@ -1,6 +1,5 @@
 ﻿using DataAdapter.MSSQL.Infrastruction;
-using DataAdapter.MSSQL.MSSQL.Configuration;
-using DataAdapter.MSSQL.MSSQL.Infrastruction;
+using DataAdapter.MSSQL.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -8,7 +7,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
-namespace DataAdapter.MSSQL.MSSQL
+namespace DataAdapter.MSSQL
 {
     public class SQLBatchExecute
     {

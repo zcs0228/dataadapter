@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using DataAdapter.MSSQL.MSSQL.Configuration;
+using DataAdapter.MSSQL.Configuration;
 using DataAdapter.MSSQL.Translators;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
-namespace DataAdapter.MSSQL.MSSQL
+namespace DataAdapter.MSSQL
 {
     public class SQLCustomExecute
     {

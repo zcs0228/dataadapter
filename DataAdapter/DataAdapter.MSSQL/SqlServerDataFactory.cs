@@ -9,9 +9,8 @@ using System.Data;
 using DataAdapter.MSSQL.Translators;
 using AutoMapper;
 using System.Collections;
-using DataAdapter.MSSQL.MSSQL.Configuration;
+using DataAdapter.MSSQL.Configuration;
 using System.Transactions;
-using DataAdapter.MSSQL.MSSQL.Infrastruction;
 
 namespace DataAdapter.MSSQL
 {

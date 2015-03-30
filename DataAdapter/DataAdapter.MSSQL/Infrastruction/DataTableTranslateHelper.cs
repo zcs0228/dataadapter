@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
-namespace DataAdapter.MSSQL.MSSQL.Infrastruction
+namespace DataAdapter.MSSQL.Infrastruction
 {
     public class DataTableTranslateHelper
     {
